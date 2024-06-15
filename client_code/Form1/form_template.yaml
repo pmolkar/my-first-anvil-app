@@ -27,9 +27,6 @@ components:
   - name: data_grid_1
     properties:
       columns:
-      - {id: JKSDUP, title: Column 1, data_key: column_1}
-      - {id: VJQQOR, title: Column 2, data_key: column_2}
-      - {id: OJLQEN, title: Column 3, data_key: column_3}
       - {id: OPCSIQ, data_key: Column1, title: Column1}
       - {id: EBMLXI, data_key: Column2, title: Column2}
       - {id: GSHTHN, data_key: Column3, title: Column3}
