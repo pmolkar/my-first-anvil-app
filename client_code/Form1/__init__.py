@@ -17,3 +17,7 @@ class Form1(Form1Template):
   def data_grid_1_show(self, **event_args):
     """This method is called when the data grid is shown on the screen"""
     pass
+
+  def file_loader_1_change(self, file, **event_args):
+    """This method is called when a new file is loaded into this FileLoader"""
+    pass
